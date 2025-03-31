@@ -16,8 +16,8 @@ function Layout({ children }) {
       {children}
       <footer className="text-center bg-gray-900 text-white rounded-md shadow-2xl">
         <p className="py-10 flex justify-center items-center gap-2">
-          Developed by MatinHasanpour
-          <FaHeartPulse className="size-5 text-blue-400" />
+          Developed by <a href="https://instagram.com/matinhasanpour_">Matin</a>
+          <FaHeartPulse className="size-5 text-blue-400 hover:text-red-500 cursor-pointer" />
         </p>
       </footer>
     </>

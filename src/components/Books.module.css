@@ -1,0 +1,8 @@
+.favorite{
+    flex: 1 1 0;
+    padding: 10px;
+    margin: 19px 0 0 10px;
+}
+.container{
+    margin-top: -20px;
+}
