@@ -1,12 +1,22 @@
-# React + Vite
+### وبسایت Book App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+این **ویبسایت Book App** به عنوان پروژه‌ای آموزشی ساخته شده است. هدف این وبسایت، آموزش و یادگیری در مورد توسعه وب با استفاده از **ReactJS** بوده و برای تست و آزمایش ایجاد شده است. این وبسایت تنها برای اهداف آموزشی و یادگیری طراحی شده و امکانات ساده‌ای دارد.
 
-Currently, two official plugins are available:
+ویژگی‌ها:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **جستجوی کتاب‌ها**: می‌توانید به راحتی در عنوان کتاب‌ها جستجو کنید.
+- **لایک کردن کتاب‌ها**: امکان لایک کردن کتاب‌ها برای ذخیره کتاب‌های مورد علاقه شما وجود دارد.
+- **مشاهده کتاب‌ها**: می‌توانید کتاب‌هایی که دوست دارید را مشاهده و مرور کنید.
 
-## Expanding the ESLint configuration
+این وبسایت به‌صورت ساده طراحی شده و به شما این امکان را می‌دهد که با قابلیت‌های اولیه **ReactJS** آشنا شوید و تجربه‌ای از یک پروژه عملی به‌دست آورید.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+این پروژه برای اهداف آموزشی طراحی شده است و تنها به عنوان یک وبسایت تستی برای یادگیری بیشتر از آن استفاده می‌شود.
+
+در زیر پیش‌نمایشی از طراحی و رابط کاربری وبسایت آمده است:
+
+![طراحی Book App](./public/123.png)
+
+شما همچنین می‌توانید برای دریافت به‌روزرسانی‌های بیشتر، مرا در شبکه‌های اجتماعی دنبال کنید:
+
+- [اینستاگرام](https://www.instagram.com/matinhasanpour_)
+- [تلگرام](https://t.me/mattinhasanpour)
