@@ -1,22 +1,26 @@
-### وبسایت Book App
+### Book App Website
 
-این **ویبسایت Book App** به عنوان پروژه‌ای آموزشی ساخته شده است. هدف این وبسایت، آموزش و یادگیری در مورد توسعه وب با استفاده از **ReactJS** بوده و برای تست و آزمایش ایجاد شده است. این وبسایت تنها برای اهداف آموزشی و یادگیری طراحی شده و امکانات ساده‌ای دارد.
+This **Book App** website has been created as an educational project. The purpose of this website is to learn and practice web development using **ReactJS**. It is created for testing and experimenting with ReactJS features. This website is purely for educational purposes and is designed as a test project.
 
-ویژگی‌ها:
+Features:
 
-- **جستجوی کتاب‌ها**: می‌توانید به راحتی در عنوان کتاب‌ها جستجو کنید.
-- **لایک کردن کتاب‌ها**: امکان لایک کردن کتاب‌ها برای ذخیره کتاب‌های مورد علاقه شما وجود دارد.
-- **مشاهده کتاب‌ها**: می‌توانید کتاب‌هایی که دوست دارید را مشاهده و مرور کنید.
+- **Book Search**: Easily search for books by their titles.
+- **Liking Books**: You can like books to save your favorite ones.
+- **Book View**: You can view and browse books that interest you.
 
-این وبسایت به‌صورت ساده طراحی شده و به شما این امکان را می‌دهد که با قابلیت‌های اولیه **ReactJS** آشنا شوید و تجربه‌ای از یک پروژه عملی به‌دست آورید.
+This website is designed in a simple way to give you an experience with basic **ReactJS** functionality. It provides a hands-on project to help you get familiar with web development.
 
-این پروژه برای اهداف آموزشی طراحی شده است و تنها به عنوان یک وبسایت تستی برای یادگیری بیشتر از آن استفاده می‌شود.
+This project is created for educational purposes and serves as a test website to learn more about ReactJS and web development.
 
-در زیر پیش‌نمایشی از طراحی و رابط کاربری وبسایت آمده است:
+Below is a preview of the design and user interface of the website:
 
-![طراحی Book App](./public/123.png)
+![Book App Design 1](./public/123.png)
 
-شما همچنین می‌توانید برای دریافت به‌روزرسانی‌های بیشتر، مرا در شبکه‌های اجتماعی دنبال کنید:
+![Book App Design 2](./public/1234.png)
 
-- [اینستاگرام](https://www.instagram.com/matinhasanpour_)
-- [تلگرام](https://t.me/mattinhasanpour)
+You can also follow me on my social media accounts for more updates:
+
+- [Instagram](https://www.instagram.com/matinhasanpour_)
+- [Telegram](https://t.me/mattinhasanpour)
+
+---
